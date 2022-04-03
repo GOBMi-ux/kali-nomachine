@@ -1,4 +1,4 @@
-FROM rajkumar5781/Docker_Install_Automation_KaliLinux
+FROM thuonghai2711/nomachine-kali-desktop:latest
 MAINTAINER moguayv@gmail.com
 
 RUN echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" > /etc/apt/sources.list && \
