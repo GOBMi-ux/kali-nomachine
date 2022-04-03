@@ -1,4 +1,4 @@
-FROM GOBMi-ux/kalilinuxdocker-1
+FROM rajkumar5781/Docker_Install_Automation_KaliLinux
 MAINTAINER moguayv@gmail.com
 
 RUN echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" > /etc/apt/sources.list && \
