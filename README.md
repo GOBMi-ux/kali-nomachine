@@ -5,13 +5,13 @@ Kali Dockerfile with NoMachine remote access
 ## Build
 
 ```
-git clone https://github.com/moguay/kali-nomachine.git
+git clone https://github.com/GOBMi-ux/kali-nomachine.git
 cd kali-nomachine
 docker build -t=kali-nomachine .
 ```
 ## Docker pull command
 ```
-docker pull moguay/kali-nomachine
+docker pull GOBMi-ux/kali-nomachine
 ```
 
 ## Usage
